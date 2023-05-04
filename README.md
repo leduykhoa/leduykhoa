@@ -8,7 +8,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Php-282C34?logo=Php&logoColor=21759B" alt="Php logo" title="Php" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=PHP&logoColor=21759B" alt="PHP logo" title="PHP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Magento-282C34?logo=Magento&logoColor=21759B" alt="Magento logo" title="Magento" height="25" /></span>
 &nbsp;
@@ -56,9 +56,16 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=21759B" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=21759B" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=21759B" alt="Solidity logo" title="Solidity" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=21759B" alt="Dart logo" title="Dart" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Web3-282C34?logo=Web3&logoColor=21759B" alt="Web3 logo" title="Web3" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/DockerSwarm-282C34?logo=DockerSwarm&logoColor=21759B" alt="DockerSwarm logo" title="Docker swarm" height="25" /></span>
 &nbsp;
-
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
